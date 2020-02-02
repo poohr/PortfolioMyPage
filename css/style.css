@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  line-height: 2;
+  color: #f0f8ff;
+  font-family: "Bitter", serif;
+  z-index: 0;
+}
+
+#index h1 {
+  font-size: 100px;
+}
+
+#index {
+  background-image: url(../image/image1.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
